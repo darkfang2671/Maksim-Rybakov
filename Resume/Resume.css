@@ -1,0 +1,56 @@
+.div1
+{
+	margin:0px;
+	background-color:#669999;
+	height:100%;
+	width:30%;
+	float:left;
+	}
+.div2
+{
+	margin-top:0%;
+	height:150%;
+	width:70%;
+	margin-right:0%;
+	float:right;
+	background-color:#33A449;
+}
+.div3
+{
+	margin-top:0%;
+	height:150%;
+	width:70%;
+	float:right;
+		background-color:#F2C23E;
+}
+.img1
+{
+	width:70%;
+	height:20%;
+	position:relative;
+	left:10%;
+}
+.p1{
+	font-size: 15pt;
+	font-family:serif;
+	margin-left:35%;
+	margin-top:0px;
+	margin-block-start:0px;
+	margin-block-end:0px;
+}
+.p2,.p3,.p4
+{
+margin-left:10%;
+vertical-align: top;
+}
+.p5,.p6,.p7,.p8,.table1,.ul1
+{
+	font-size:23pt;
+	margin-left:10%;
+}
+.p9{
+font-size:20pt;	
+margin-left:25%;
+color:brown;
+}
+.p9:hover {text-decoration: solid underline green 4px;}
